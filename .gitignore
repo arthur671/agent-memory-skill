@@ -1,0 +1,18 @@
+# Operating system & editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.bak*
+.vscode/
+.idea/
+
+# Runtime agent memory (NEVER commit runtime memories to public repo)
+agent-memory/
+tasks/
+LESSONS.md
+CURRENT.md
+archive/
+*.log
+*.tmp
+.env
+.env.*
