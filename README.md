@@ -71,6 +71,12 @@ Once installed, the operating rules run autonomously in every session. You can a
 
 ---
 
+## Support
+
+If this tool saved you some time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/arthur9366) ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arthur9366)
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
